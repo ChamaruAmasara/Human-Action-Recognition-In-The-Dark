@@ -1,0 +1,12 @@
+EE6222_data
+
+temp/
+
+*.log
+*.aux
+*.zip
+*.gz
+*.pth   
+*.pt
+**/__pycache__
+Submission
